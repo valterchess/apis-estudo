@@ -1,0 +1,7 @@
+<!DOCTYPE web-app PUBLIC
+        "-//Eclipse Foundation, Inc.//XSD Web Application 5.0//EN"
+        "https://jakarta.ee/xml/ns/jakartaee/web-app_5_0.xsd">
+
+<web-app version="5.0">
+    <display-name>Archetype Created Web Application</display-name>
+</web-app>
